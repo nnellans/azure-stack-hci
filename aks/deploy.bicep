@@ -1,6 +1,6 @@
 // This Bicep template helps you deploy AKS on Azure Stack HCI
 // It will deploy 3 resources:  Logical Network, Connected Cluster, Provisioned Cluster Instance
-// Read more on my blog: https://
+// Read more on my blog: https://www.nathannellans.com/post/my-azure-stack-hci-home-lab-part-4
 
 //----------------
 // PARAMETERS
